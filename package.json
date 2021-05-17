@@ -1,0 +1,22 @@
+{
+    "name": "monokai-wujidadi",
+    "displayName": "Monokai (Wujidadi cover)",
+    "description": "A modified Monokai color theme by Wujidadi.",
+    "publisher": "Wujidadi",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai (Wujidadi cover)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai (Wujidadi cover)-color-theme.json"
+            }
+        ]
+    }
+}
