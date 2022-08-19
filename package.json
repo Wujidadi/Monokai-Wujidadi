@@ -2,7 +2,7 @@
     "name": "monokai-wujidadi",
     "displayName": "Monokai (Wujidadi cover)",
     "description": "A modified Monokai color theme by Wujidadi.",
-    "publisher": "Wujidadi",
+    "publisher": "wujidadi",
     "author": {
         "name": "Wujidadi"
     },
@@ -10,7 +10,7 @@
         "type": "git",
         "url": "https://github.com/Wujidadi/Monokai-Wujidadi.git"
     },
-    "version": "0.1.0",
+    "version": "0.2.0",
     "engines": {
         "vscode": "^1.30.0"
     },
